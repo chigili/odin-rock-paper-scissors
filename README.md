@@ -37,11 +37,13 @@ Open index.html in your web browser
 Open the browser console to play
 
 ## Project Structure
+
 rock-paper-scissors/
 ├── index.html
 ├── script.js
 └── README.md
-Learning Objectives
+
+## Learning Objectives
 This project demonstrates:
 
 JavaScript functions and variables

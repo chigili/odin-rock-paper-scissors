@@ -27,8 +27,8 @@ Play 5 rounds and see who wins!
 
 ## Technologies Used
 
-HTML
-JavaScript
+- HTML
+- JavaScript
 
 ## Installation
 

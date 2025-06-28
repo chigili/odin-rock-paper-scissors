@@ -38,10 +38,12 @@ Open the browser console to play
 
 ## Project Structure
 
+```
 rock-paper-scissors/
 ├── index.html
 ├── script.js
 └── README.md
+```
 
 ## Learning Objectives
 This project demonstrates:

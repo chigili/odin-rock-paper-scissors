@@ -3,10 +3,25 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>JavaScript Test</title>
+    <title>Rock Paper Scissors</title>
+    <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <h1>JavaScript Test Page</h1>
+    <h1>Rock Paper Scissors</h1>
+
+    <div class="buttons">
+      <button id="rock">🪨 Rock</button>
+      <button id="paper">📄 Paper</button>
+      <button id="scissors">✂️ Scissors</button>
+    </div>
+
+    <div id="results">
+      <div id="score">Human: 0 | Computer: 0</div>
+      <div id="round-result">Choose your weapon!</div>
+      <div id="winner"></div>
+    </div>
+
+    <button id="reset" class="hidden">Play Again</button>
 
     <script src="script.js"></script>
   </body>
